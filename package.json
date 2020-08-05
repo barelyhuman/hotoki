@@ -1,0 +1,9 @@
+{
+  "name": "hotoki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:barelyhuman/hotoki.git",
+  "author": "sidgroks@gmail.com <sidgroks@gmail.com>",
+  "license": "MIT",
+  "scripts": {}
+}
