@@ -1,4 +1,4 @@
-Codename: hotoki
+codename: hotoki
 
 ## Path
 1. Plain Text Editor (WIP)
